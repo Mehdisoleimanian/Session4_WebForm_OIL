@@ -1,4 +1,4 @@
-<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Session4_WebForm_OIL.Site" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Session4_WebForm_OIL.Site" %>
 
 <!DOCTYPE html>
 
@@ -12,15 +12,15 @@
 </head>
 <body>
      <div id="topimg">
-    <h1>Your Comapany Name</h1>
+    <h1 class="H1bold ">South Turbine Company</h1>
   </div>
     <div id="navcontainer">
     <ul id="navlist">
-      <li id="active"><a href="#" id="current">Item one</a></li>
-      <li><a href="#">Item two</a></li>
-      <li><a href="#">Item three</a></li>
-      <li><a href="#">Item four</a></li>
-      <li><a href="#">Item five</a></li>
+      <li id="active"><a href="#" id="current">صفحه اصلی</a></li>
+      <li><a href="#">روابط عمومی</a></li>
+      <li><a href="#">خدمات مکانیزه</a></li>
+      <li><a href="#">خدمات رفاهی</a></li>
+      <li><a href="#">امور کارکنان</a></li>
     </ul>
   </div>
     <div id="content">

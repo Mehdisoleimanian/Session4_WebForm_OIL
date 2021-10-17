@@ -3,6 +3,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h1>Well Come .... This Is Home Page </h1>
+     <h1>Mehdi Soleimanian</h1>
+    <hr/>
 
-    <h3>Mehdi Soleimanian</h3>
+
 </asp:Content>
